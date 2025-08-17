@@ -1,0 +1,162 @@
+[
+  {
+    "eventId": "hs_evt_01HRX9M4",
+    "eventType": "contact.created",
+    "occurredAt": "2025-03-12T15:34:19.412Z",
+    "objectId": 145424382884,
+    "properties": {
+      "email": "sally_mk01@yahoo.com",
+      "firstname": "Sally",
+      "lastname": "Michaels",
+      "phone": "+1 555 0100",
+      "lifecyclestage": "lead",
+      "utm_source": "facebook",
+      "utm_medium": "cpc",
+      "utm_campaign": "fe240317a-denv-12p"
+    }
+  },
+  {
+    "eventId": "hs_evt_01HRX9M5",
+    "eventType": "contact.updated",
+    "occurredAt": "2025-03-13T09:22:11.101Z",
+    "objectId": 145424382885,
+    "properties": {
+      "email": "juan.perez@mail.com",
+      "firstname": "Juan",
+      "lastname": "Pérez",
+      "phone": "+54 9 11 2222 3333",
+      "lifecyclestage": "customer",
+      "utm_source": "google",
+      "utm_medium": "organic",
+      "utm_campaign": "brand_awareness"
+    }
+  },
+  {
+    "eventId": "hs_evt_01HRX9M6",
+    "eventType": "contact.created",
+    "occurredAt": "2025-03-14T11:00:00.000Z",
+    "objectId": 145424382886,
+    "properties": {
+      "email": "maria.lopez@gmail.com",
+      "firstname": "María",
+      "lastname": "López",
+      "phone": "+34 600 123 456",
+      "lifecyclestage": "subscriber",
+      "utm_source": "instagram",
+      "utm_medium": "social",
+      "utm_campaign": "march_launch"
+    }
+  },
+  {
+    "eventId": "hs_evt_01HRX9M7",
+    "eventType": "contact.deleted",
+    "occurredAt": "2025-03-14T12:30:45.200Z",
+    "objectId": 145424382887,
+    "properties": {
+      "email": "david.kim@outlook.com",
+      "firstname": "David",
+      "lastname": "Kim",
+      "phone": "+82 10 2345 6789",
+      "lifecyclestage": "lead",
+      "utm_source": "linkedin",
+      "utm_medium": "paid",
+      "utm_campaign": "b2b_2025_q1"
+    }
+  },
+  {
+    "eventId": "hs_evt_01HRX9M8",
+    "eventType": "contact.created",
+    "occurredAt": "2025-03-15T08:15:33.900Z",
+    "objectId": 145424382888,
+    "properties": {
+      "email": "emma_lee@gmail.com",
+      "firstname": "Emma",
+      "lastname": "Lee",
+      "phone": "+1 212 555 7890",
+      "lifecyclestage": "opportunity",
+      "utm_source": "twitter",
+      "utm_medium": "retargeting",
+      "utm_campaign": "spring_promo"
+    }
+  },
+  {
+    "eventId": "hs_evt_01HRX9M9",
+    "eventType": "contact.updated",
+    "occurredAt": "2025-03-15T09:47:59.001Z",
+    "objectId": 145424382889,
+    "properties": {
+      "email": "lucas_silva@hotmail.com",
+      "firstname": "Lucas",
+      "lastname": "Silva",
+      "phone": "+55 11 91234 5678",
+      "lifecyclestage": "customer",
+      "utm_source": "bing",
+      "utm_medium": "ads",
+      "utm_campaign": "retargeting_25"
+    }
+  },
+  {
+    "eventId": "hs_evt_01HRX9MA",
+    "eventType": "contact.created",
+    "occurredAt": "2025-03-16T14:20:10.888Z",
+    "objectId": 145424382890,
+    "properties": {
+      "email": "paula.vargas@empresa.com",
+      "firstname": "Paula",
+      "lastname": "Vargas",
+      "phone": "+57 301 123 4567",
+      "lifecyclestage": "lead",
+      "utm_source": "email",
+      "utm_medium": "newsletter",
+      "utm_campaign": "march2025_news"
+    }
+  },
+  {
+    "eventId": "hs_evt_01HRX9MB",
+    "eventType": "contact.deleted",
+    "occurredAt": "2025-03-17T10:10:10.100Z",
+    "objectId": 145424382891,
+    "properties": {
+      "email": "kevin.m@domain.net",
+      "firstname": "Kevin",
+      "lastname": "Martinez",
+      "phone": "+1 305 555 6789",
+      "lifecyclestage": "subscriber",
+      "utm_source": "youtube",
+      "utm_medium": "video",
+      "utm_campaign": "q1launch2025"
+    }
+  },
+  {
+    "eventId": "hs_evt_01HRX9MC",
+    "eventType": "contact.created",
+    "occurredAt": "2025-03-18T16:45:00.000Z",
+    "objectId": 145424382892,
+    "properties": {
+      "email": "sofia.ramos@empresa.org",
+      "firstname": "Sofía",
+      "lastname": "Ramos",
+      "phone": "+52 55 1234 5678",
+      "lifecyclestage": "lead",
+      "utm_source": "tiktok",
+      "utm_medium": "ads",
+      "utm_campaign": "viral_test"
+    }
+  },
+  {
+    "eventId": "hs_evt_01HRX9MD",
+    "eventType": "contact.updated",
+    "occurredAt": "2025-03-19T07:55:30.303Z",
+    "objectId": 145424382893,
+    "properties": {
+      "email": "andrea.bianchi@dominio.it",
+      "firstname": "Andrea",
+      "lastname": "Bianchi",
+      "phone": "+39 347 123 4567",
+      "lifecyclestage": "customer",
+      "utm_source": "referral",
+      "utm_medium": "affiliate",
+      "utm_campaign": "refer_a_friend"
+    }
+  }
+]
